@@ -1,1 +1,1 @@
-This is a Expense tracker appliation used for manage wallet expenses.Here we used .NET CORE MVC framework.
+This is an Expense tracker application used to manage wallet expenses. Here we used .NET CORE MVC framework.
